@@ -21,29 +21,29 @@ The hisytorical loan dataset given below contains the information about past loa
  In this case study, we will use EDA to understand how consumer attributes and loan attributes influence the tendency of default.
 
 ## Conclusions
-- Conclusion from univariate analysis on consumers tendency to default on loan is derived by below parameters.
-Consumer taking loan for term of 36 months
-Consumer whose purpose of the loan is for 'Debt consolidation'
-Consumer whose home ownership is 'RENT' or 'MORTGAGES'
-Consumer who is in employment for 10 years and GRADE  B
-Consumer who have taken a loan interest rate of 13-17%.
-Consumer who has 2-10 or 2-20 open accounts.
-Consumer who has utilization rates between 60-100
-Consumer who has DTI ratio between 12-18.
-Consumer whose number of derogatory public records is 0(It can be due to not having proper data for all consumer)
-Consumer whose funded Loan amount is between 5000-10000
-Consumer whose monthly installments are between 145-274
+Conclusion from univariate analysis on consumers tendency to default on loan is derived by below parameters.
+- Consumer taking loan for term of 36 months
+- Consumer whose purpose of the loan is for 'Debt consolidation'
+- Consumer whose home ownership is 'RENT' or 'MORTGAGES'
+- Consumer who is in employment for 10 years and GRADE  B
+- Consumer who have taken a loan interest rate of 13-17%.
+- Consumer who has 2-10 or 2-20 open accounts.
+- Consumer who has utilization rates between 60-100
+- Consumer who has DTI ratio between 12-18.
+- Consumer whose number of derogatory public records is 0(It can be due to not having proper data for all consumer)
+- Consumer whose funded Loan amount is between 5000-10000
+- Consumer whose monthly installments are between 145-274
 
-- Conclusion from bivariate analysis on consumers tendency to default on loan is derived by below parameters.
+Conclusion from bivariate analysis on consumers tendency to default on loan is derived by below parameters.
 
-Consumer taking loan for 'home improvement' and have annual income of 60k -70k
-Consumer employment length of 8 years and have annual income of 60k -70k
-Consumer whose home ownership is 'MORTGAGE and have annual income of 60-70k
-Consumer who receive interest at the rate of 21-24% and have an annual income of 60k-80k
-Consumer who have taken a loan for small business and the loan amount is in between 14k - 16k
-Consumer employment length of 10 years and the loan amount is in between 13k - 14k
-Consumer whose home ownership is 'MORTGAGE and have loan of 13k-15k
-Consumer who have taken a loan in the range 15k - 20K and are charged interest rate of 21%-24%
+- Consumer taking loan for 'home improvement' and have annual income of 60k -70k
+- Consumer employment length of 8 years and have annual income of 60k -70k
+- Consumer whose home ownership is 'MORTGAGE and have annual income of 60-70k
+- Consumer who receive interest at the rate of 21-24% and have an annual income of 60k-80k
+- Consumer who have taken a loan for small business and the loan amount is in between 14k - 16k
+- Consumer employment length of 10 years and the loan amount is in between 13k - 14k
+- Consumer whose home ownership is 'MORTGAGE and have loan of 13k-15k
+- Consumer who have taken a loan in the range 15k - 20K and are charged interest rate of 21%-24%
 
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
